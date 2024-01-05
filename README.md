@@ -18,13 +18,16 @@ FokiraGPT is a chatbot application built using React, Vite, and powered by langd
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1. Clone the repository:
-
-   ```bash
+   
+```bash
    git clone https://github.com/apucsd/FokiraGPT.git
-   ```bash
+
    cd FokiragGPT
+
    npm i
+
    npm run dev
+```
 ## Usage
 ask as like 
 - what is facebook?
