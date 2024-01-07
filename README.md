@@ -1,8 +1,36 @@
-# React + Vite
+![FokiraGPT](https://i.ibb.co/gZWDSs0/fokiragpt-web-app-1.png)
+# FokiraGPT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Currently, two official plugins are available:
+FokiraGPT is a chatbot application built using React, Vite, and powered by langdrive. It allows users to interact with a language model and receive human-like responses.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Make sure you have [Node.js](https://nodejs.org/) installed.
+
+1. Clone the repository:
+   
+```bash
+   git clone https://github.com/apucsd/FokiraGPT.git
+
+   cd FokiragGPT
+
+   npm i
+
+   npm run dev
+```
+## Usage
+ask as like 
+- what is facebook?
+- what is google?
+
+
