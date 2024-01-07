@@ -1,6 +1,6 @@
 const SideBar = () => {
   return (
-    <div className="w-[25%] h-screen p-4  bg-[#202123]">
+    <div className="md:w-[25%] md:h-screen p-4  bg-[#202123]">
       <ul className="space-y-3 text-sm">
         <li
           onClick={() => window.location.reload()}
